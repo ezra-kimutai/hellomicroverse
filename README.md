@@ -10,7 +10,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -52,12 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](http://127.0.0.1:5500/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
@@ -93,7 +86,6 @@ To run the project, execute the following command:
 
 gh repo clone ezra-kimutai/hellomicroverse
 
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author**
@@ -101,12 +93,6 @@ gh repo clone ezra-kimutai/hellomicroverse
 - GitHub: [@githubhandle](https://github.com/ezra-kimutai)
 - Twitter: [@twitterhandle](https://twitter.com/ezrakimutai21)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ezra-kimutai-8a2938258/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
